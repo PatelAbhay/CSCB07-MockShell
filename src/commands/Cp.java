@@ -2,24 +2,20 @@
 // **********************************************************
 // Assignment2:
 // Student1:
-// UTORID user_name: santhos7
-// UT Student #: 1006094673
 // Author: Shawn Santhoshgeorge
+// Github: @ShawnGeorge03
 //
 // Student2:
-// UTORID user_name: shaiskan
-// UT Student #: 1006243940
 // Author: Keshavaa Shaiskandan
+// Github: @skeshavaa
 //
 // Student3:
-// UTORID user_name: patelt26
-// UT Student #: 1005904103
 // Author: Tirth Patel
+// Github:@ProgramTP
 //
 // Student4:
-// UTORID user_name: pate1101
-// UT Student #: 1006315765
 // Author: Abhay Patel
+// Github: @PatelAbhay
 //
 //
 // Honor Code: I pledge that this program represents my own
